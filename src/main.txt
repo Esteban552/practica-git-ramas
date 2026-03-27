@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Versión inicial del proyecto
 Funcionalidad del módulo 1
 Funcionalidad del módulo 2
 Funcionalidad del módulo 3
-
+Funcionalidad del módulo 4
