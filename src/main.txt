@@ -1,2 +1,3 @@
-Version inicial del proyecto
+Versión inicial del proyecto
 Funcionalidad del módulo 1
+Funcionalidad del módulo 2
